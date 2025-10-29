@@ -1,0 +1,5 @@
+print("Systm Booting now....")
+name = input("Hi, what's your name? ")
+mood = input(f"Nice to meet you {name}, how are you feeling today?")
+print(f"I see {name}...today you are feeling {mood} 😊.")
+print(f"Alright {name}. Welcome to the game 🌌")
